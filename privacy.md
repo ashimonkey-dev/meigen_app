@@ -23,7 +23,7 @@
 ご質問・ご意見は、以下までご連絡ください。
 
 - 開発者：Kanta Matsuzaki  
-- GitHub: [@your-github-username](https://github.com/your-github-username)
+- GitHub: [@ashimonkey-dev](https://github.com/ashimonkey-dev/meigen_app)
 
 ## 6. 改定について
 
